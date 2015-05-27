@@ -1,0 +1,3 @@
+class LucyController < ApplicationController
+
+end
